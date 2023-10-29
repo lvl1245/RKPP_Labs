@@ -1,3 +1,7 @@
+
+
+using RKPP_Labs;
+
 namespace RKPP_Labs_Part_2
 {
     internal static class Program
