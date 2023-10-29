@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RKPP_Labs
 {
-    class Product
+    public class Product
     {
     }
 }
