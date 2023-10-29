@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RKPP_Labs\PDI_Labs.csproj" />
+    <ProjectReference Include="..\PDI_Labs\PDI_Labs.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDI_Labs", "RKPP_Labs\PDI_Labs.csproj", "{56D2E10E-FC85-4F7C-AD31-E1D1DD360B88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDI_Labs", "PDI_Labs\PDI_Labs.csproj", "{56D2E10E-FC85-4F7C-AD31-E1D1DD360B88}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDI_Labs_Part_2", "RKPP_Labs_Part_2\PDI_Labs_Part_2.csproj", "{8405529D-EEDB-4ADE-96FC-4C07C5E22053}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PDI_Labs_Part_2", "PDI_Labs_Part_2\PDI_Labs_Part_2.csproj", "{8405529D-EEDB-4ADE-96FC-4C07C5E22053}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
