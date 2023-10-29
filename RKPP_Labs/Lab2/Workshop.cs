@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RKPP_Labs
 {
-    abstract class Workshop // абстарктный класс фабрики
+    public abstract class Workshop // абстарктный класс фабрики
     {
         public string? WorkshopName;
 

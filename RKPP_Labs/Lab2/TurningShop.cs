@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace RKPP_Labs
 {
-    partial class TurningShop : Workshop, IPrintable
+    public class TurningShop : Workshop, IPrintable
     {
         private string WorkshopNegativValueMessage = "Некорректное значение для колличества работников";
 
